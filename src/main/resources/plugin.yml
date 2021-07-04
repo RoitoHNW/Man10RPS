@@ -1,0 +1,8 @@
+name: Man10RPS
+version: @version@
+main: com.github.github.man10rps.Man10RPS
+api-version: 1.16
+authors: [ roitohnw ]
+description: Man10_Rock_Paper_Scissors
+commands:
+  rps:
